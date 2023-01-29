@@ -1,0 +1,2 @@
+# A SIMPLE CRUD MOVIE SERVER WITH GO
+This project aims at building a simple create, read, update and delete movie server using postman and Go language. You can get all movies, get a specific movie, create a movie, delete a specific movie and even update a movie. 
